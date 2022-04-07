@@ -1,10 +1,11 @@
 
+import AppRouter from "./routes/AppRouter"
+
 
 const DreamsProjects = () => {
   return (
-    <div>
-      <h1>DreamsProjects</h1>
-    </div>
+    <AppRouter />
+    
   )
 }
 
