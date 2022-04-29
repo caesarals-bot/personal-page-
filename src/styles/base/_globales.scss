@@ -20,7 +20,7 @@ body {
 
 p {
     font-size: 2rem;
-    color: $negro;
+    color: $black;
 }
 
 .contenedor {
@@ -53,4 +53,8 @@ h2 {
 
 h3 {
     font-size: 3rem;
+}
+
+li {
+    list-style:none;
 }
