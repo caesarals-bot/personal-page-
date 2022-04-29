@@ -5,3 +5,5 @@ export const BlogPage = () => {
   )
 }
 
+export default BlogPage
+

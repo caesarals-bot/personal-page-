@@ -7,3 +7,5 @@ export const HomeDreams = () => {
     </div>
   )
 }
+
+export default HomeDreams
